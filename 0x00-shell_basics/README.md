@@ -3,4 +3,10 @@ read me file for 0x00-shellbasics
 1-listit a file that displays the content list of your current directory
 2-bring_me_home a file that changes the working directory to the user's home directory
 3-listfiles a file that displays current directory content in a long format
-4-listmorefiles 
+4-listmorefiles
+5-
+6-
+7-
+8
+9-
+10- 
